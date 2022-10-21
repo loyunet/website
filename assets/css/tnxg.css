@@ -34,7 +34,7 @@ body {
 
 @font-face {
     font-family: 'JetBrainsMono';
-    src: url('/font/JetBrainsMono.woff2');
+    src: url('/assets/font/JetBrainsMono.woff2');
     font-weight: 500;
     font-style: normal;
 }
